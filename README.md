@@ -28,7 +28,7 @@ Solution
 
 This is a Java-maven project to make the rest api calls and test the output of the calls
 
-The tests are located inside the QueryAPI class located at com/commerce/fluent/tests folder
+The tests are located inside the QueryAPI class located at src/main/java/com/commerce/fluent/tests folder
 
 The tests cases are named to match the problem statement except point 3 which is not a test but just a method to get id for user Tobias
 
